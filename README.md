@@ -3,3 +3,7 @@ https://docs.google.com/document/d/1figIfMXW6lkB9wFouFGiyq64bhCV6wqK/edit?usp=sh
 ЛЕКЦИЯ 22.09
 https://docs.google.com/document/d/1LBTn8oGPhWLyh5tyRMkZHbH1L69IDTRFp7PjvERsfEE/edit?usp=sharing
 
+мой реплит 
+прошлый работы в папке 
+https://replit.com/@Kashtanov992/Python#main.py
+
