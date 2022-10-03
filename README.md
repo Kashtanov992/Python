@@ -7,3 +7,6 @@ https://docs.google.com/document/d/1LBTn8oGPhWLyh5tyRMkZHbH1L69IDTRFp7PjvERsfEE/
 прошлый работы в папке 
 https://replit.com/@Kashtanov992/Python#main.py
 
+03.10.22
+https://colab.research.google.com/drive/1ES_7zi09Afz9Xf1WutxC2gD4_7RAL-Qb?usp=sharing
+
